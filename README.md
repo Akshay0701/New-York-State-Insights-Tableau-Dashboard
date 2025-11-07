@@ -2,7 +2,7 @@
 - This project was created as part of IST 737: Visual Analytics Dashboard using Tableau coursework under Professor Raj Dewan at Syracuse University
 
 # Tableau Public Link:
-- I have published the dashboard on tableau public. The dashboard can be accessed using the link: https://public.tableau.com/app/profile/arunavadas005/viz/NewYorkStateInsightsDashboard/HomePage
+- I have published the dashboard on tableau public. The dashboard can be accessed using the link: https://public.tableau.com/app/profile/akshayjadhavsyracuse-b9a500cf2d/viz/NewYorkStateInsightsDashboard/HomePage
 
 ## Project Description
 "New York State: A land of promise or compromise? Let’s uncover the story..." Through this tableau project, we explore whether New York State lives up to its reputation as a land of opportunity or if compromises must be made. From energy and sustainability to public
